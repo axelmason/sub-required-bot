@@ -1,0 +1,1 @@
+export type Variant = 'fill' | 'bezeled' | 'plain' | 'gray' | 'outline' | 'white';
